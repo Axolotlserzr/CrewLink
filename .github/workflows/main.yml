@@ -1,0 +1,8 @@
+version: 2.0.1
+files:
+  - url: CrewLink-Setup-2.0.1.exe
+    sha512: YHXkW+W6kd+wQ0GZ9W+A9pWtWbp0uEvGfxpC736xhVFicOwz9bvDITeh4c3o7jujua19eR4DNTbM1eZnvHnXAw==
+    size: 114838741
+path: CrewLink-Setup-2.0.1.exe
+sha512: YHXkW+W6kd+wQ0GZ9W+A9pWtWbp0uEvGfxpC736xhVFicOwz9bvDITeh4c3o7jujua19eR4DNTbM1eZnvHnXAw==
+releaseDate: '2021-01-10T02:44:12.437Z'
